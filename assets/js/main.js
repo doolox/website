@@ -21,7 +21,7 @@
     const logo = document.getElementById('logo');
     if (logo != null) {
       if (window.scrollY > 100) {
-        logo.src = 'assets/img/logo.png?v=4';
+        logo.src = 'assets/img/logo.png?v=5';
       } else {
         logo.src = 'assets/img/logo-white.png?v=4';
       }
