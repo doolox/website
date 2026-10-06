@@ -23,7 +23,7 @@
       if (window.scrollY > 100) {
         logo.src = 'assets/img/logo.png?v=7';
       } else {
-        logo.src = 'assets/img/logo-white.png?v=5';
+        logo.src = 'assets/img/logo-white.png?v=6';
       }
     }
   }
