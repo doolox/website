@@ -476,7 +476,7 @@ h6 {
 --------------------------------------------------------------*/
 .footer {
   color: #ffffff;
-  background-color: #292929;
+  background-color: #222222;
   font-size: 14px;
   padding-bottom: 50px;
   position: relative;
@@ -491,7 +491,7 @@ h6 {
 }
 
 .footer .footer-about .logo img {
-  max-height: 40px;
+  max-height: 56px;
   margin-right: 6px;
 }
 
