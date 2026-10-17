@@ -2,32 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://doolox.com/about</loc>
-    <lastmod>2026-10-17T08:37:08+00:00</lastmod>
-    <priority>0.8000</priority>
-  </url>
-  <url>
-    <loc>https://doolox.com/faq</loc>
-    <lastmod>2026-10-17T08:37:08+00:00</lastmod>
+    <lastmod>2026-10-17T09:12:58+00:00</lastmod>
     <priority>0.8000</priority>
   </url>
   <url>
     <loc>https://doolox.com/</loc>
-    <lastmod>2026-10-17T08:37:08+00:00</lastmod>
+    <lastmod>2026-10-17T09:12:58+00:00</lastmod>
     <priority>1.0000</priority>
   </url>
   <url>
     <loc>https://doolox.com/pricing</loc>
-    <lastmod>2026-10-17T08:37:08+00:00</lastmod>
-    <priority>0.8000</priority>
-  </url>
-  <url>
-    <loc>https://doolox.com/token</loc>
-    <lastmod>2026-10-17T08:37:08+00:00</lastmod>
-    <priority>0.8000</priority>
-  </url>
-  <url>
-    <loc>https://doolox.com/ukljuci-se</loc>
-    <lastmod>2026-10-17T08:37:08+00:00</lastmod>
+    <lastmod>2026-10-17T09:12:58+00:00</lastmod>
     <priority>0.8000</priority>
   </url>
 </urlset>
