@@ -6,6 +6,40 @@
   <title>{{ .Page.Title }}</title>
   <link href="assets/img/favicon.ico?v=1" rel="icon">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/css/simple.css?v=2" rel="stylesheet">
+  <link href="assets/css/simple.css?v=3" rel="stylesheet">
+  <style>
+    :root {
+      --bs-primary: #e84545;
+      --bs-primary-rgb: 232, 69, 69;
+      --bs-link-color: #e84545;
+      --bs-link-color-rgb: 232, 69, 69;
+      --bs-link-hover-color: #c63a3a;
+      --bs-link-hover-color-rgb: 198, 58, 58;
+    }
+    .btn-primary {
+      --bs-btn-bg: #e84545;
+      --bs-btn-border-color: #e84545;
+      --bs-btn-hover-bg: #c63a3a;
+      --bs-btn-hover-border-color: #c63a3a;
+      --bs-btn-active-bg: #c63a3a;
+      --bs-btn-active-border-color: #c63a3a;
+      --bs-btn-disabled-bg: #e84545;
+      --bs-btn-disabled-border-color: #e84545;
+    }
+    .btn-outline-primary {
+      --bs-btn-color: #e84545;
+      --bs-btn-border-color: #e84545;
+      --bs-btn-hover-bg: #e84545;
+      --bs-btn-hover-border-color: #e84545;
+      --bs-btn-hover-color: #ffffff;
+      --bs-btn-active-bg: #c63a3a;
+      --bs-btn-active-border-color: #c63a3a;
+      --bs-btn-active-color: #ffffff;
+    }
+    .navbar-nav .nav-link.active,
+    .navbar-nav .nav-link:hover {
+      color: #e84545;
+    }
+  </style>
 </head>
 {{end}}
