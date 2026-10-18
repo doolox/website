@@ -6,6 +6,11 @@
     <priority>0.8000</priority>
   </url>
   <url>
+    <loc>https://doolox.com/cms/download</loc>
+    <lastmod>2026-10-18T02:07:47+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
     <loc>https://doolox.com/cms/</loc>
     <lastmod>2026-10-18T01:04:48+00:00</lastmod>
     <priority>1.0000</priority>
